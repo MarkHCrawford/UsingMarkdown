@@ -26,3 +26,6 @@ I'm typing...
 >>> b = 20
 >>> print(a + b)
 ```
+- [x] Done
+- [ ] Not done
+- [ ] Not even close
